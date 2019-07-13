@@ -1,7 +1,7 @@
 {
     "name": "didrive_api/facebook_parser",
     "description": "работа со временем ожидания",
-    "version": "0.0.7",
+    "version": "0.0.9",
     
     "keywords": [
         "didrive", "module", "nyos", "uralweb.info"
